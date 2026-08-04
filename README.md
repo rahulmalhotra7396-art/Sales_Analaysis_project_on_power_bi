@@ -51,7 +51,8 @@ The primary objective of this project is to:
 > Add your dashboard screenshot below
 
 ```markdown
-![Dashboard](screenshots/dashboard.png)
+<img width="1355" height="770" alt="Screenshot 2026-07-31 005913" src="https://github.com/user-attachments/assets/223dbc9b-7a4b-4d89-8bc2-4e59865826a8" />
+
 ```
 
 ---
